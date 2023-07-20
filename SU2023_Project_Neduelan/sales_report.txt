@@ -1,0 +1,20 @@
+Transaction: #1
+Sale Day: 06/24/2023
+Size 1: 134 units @ $12.00 each
+Size 2: 157 units @ $25.00 each
+Size 3: 26 units @ $150.00 each
+Subtotal: $9433.00
+Tax: $660.31
+Total: $10093.31
+------------------------------------
+
+Transaction: #1
+Sale Day: 06/23/2023
+Size 1: 120 units @ $10.00 each
+Size 2: 150 units @ $40.00 each
+Size 3: 30 units @ $65.00 each
+Subtotal: $9150.00
+Tax: $640.50
+Total: $9790.50
+------------------------------------
+
